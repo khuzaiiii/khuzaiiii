@@ -3,7 +3,7 @@
 Full Stack Developer specializing in scalable web systems and modern application architecture, focused on turning complex problems into clean, high-performance solutions.
 
 ## 🎯 Specialist In
-- PHP, Laravel, CodeIgniter 4
+- PHP, HTML, CodeIgniter 4
 - JavaScript, React
 - MySQL & System Architecture
 - C# WPF (Desktop Applications)
